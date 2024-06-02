@@ -5,9 +5,11 @@ Please note, this is just the code, for use with Arduino. This is revision 1.0 -
 
 Uses an Arduino Leonardo, 3 momentary switches (Gateron whites) and a single potentiometer for pitch control. Also uses salvaged parts from a broken polaroid subwoofer.
 
+The code: https://github.com/hozkinz/bassbong/blob/main/bass-bong-code.ino
+
 Requires MIDIUSB.h: https://github.com/arduino-libraries/MIDIUSB
 
-I've done my best to comment the code to show what goes where. But maybe the video will help if you want to make your own.
+I've done my best to comment the code to show what goes where, but the video should help if you want to make your own.
 
 Watch the video: 👇
 
